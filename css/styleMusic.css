@@ -1,0 +1,27 @@
+.titulo, .logo, .imagem{
+    text-align: center;
+}
+
+body{
+
+    background-size: cover;
+
+    font-family: sans-serif,Arial;
+    color: rgb(253, 228, 228);
+    line-height: 1.5; 
+
+    height: 92vh;
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+
+    text-align: justify;
+}
+
+main{
+    background: #a00b0b52;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}

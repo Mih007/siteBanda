@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+}
+
+.nomeBanda, .headline, .logo{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: sans-serif,Arial;
+    color: rgb(253, 228, 228);
+    line-height: 1.5; 
+
+    height: 92vh;
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+}
+main{
+    background: #a00b0b52;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+.show{
+    background: hsla(0, 85%, 24%, 0.349);
+    width: 30%;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 220px;
+    border-radius: 20px;
+    text-align: center;    
+}
+
+.musica{
+    background: hsla(0, 85%, 24%, 0.349);
+    width: 30%;
+    padding: 5px 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 220px;
+    border-radius: 20px;
+    text-align: center;  
+}
+.letra{
+    text-align: center;
+    color: white;
+    font-size: 13px;
+}
+.titulo{
+    font-size: 18px;
+}
