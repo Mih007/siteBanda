@@ -2,8 +2,9 @@
     margin: 0%;
 }
 
-.nomeBanda, .headline, .logo{
+.nomeBanda, .headline, .logoIndex{
     text-align: center;
+    background-position: center;
 }
 
 p{
